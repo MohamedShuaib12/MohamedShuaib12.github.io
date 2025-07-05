@@ -1,3 +1,4 @@
+![Portfolio Banner](./banner.png)
 # 🌟 Mohamed Shuaib NM | Cloud Security Portfolio
 
 Hi! 👋 I'm **Mohamed Shuaib NM**, an aspiring **Cloud Security Engineer** currently pursuing my Bachelor’s in Engineering (EEE).  
